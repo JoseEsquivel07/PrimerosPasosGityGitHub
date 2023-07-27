@@ -1,2 +1,2 @@
 #para que te enamores
-# reemplazo
+# ya volivi del pasado ahora guerdo con git checkout hash y archivo
