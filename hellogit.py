@@ -2,7 +2,7 @@
 # ya volivi del pasado ahora guerdo con git checkout hash y archivo
 
 # se realizan modificaciones a los archiovos apra hecer otra rama y al final hacer merge
-
+#para crear una rama se utiliza el comando git branch (nombre de la rama)
 #realizandomodificaciones en rama cabecera
 #para el cambio en rramas usar el comando git checkout (nombre de la rama)
 #para guerdar cambio en rama git add (nombre de repo)}
