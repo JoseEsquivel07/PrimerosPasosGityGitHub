@@ -7,3 +7,4 @@
 #para el cambio en rramas usar el comando git checkout (nombre de la rama)
 #para guerdar cambio en rama git add (nombre de repo)}
 #y hacer un commit con git commit -m (comentario de comit) o git commit -am
+# me qudede en el vidoe 3
