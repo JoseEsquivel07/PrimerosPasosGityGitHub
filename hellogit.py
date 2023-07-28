@@ -8,3 +8,6 @@
 #para guerdar cambio en rama git add (nombre de repo)}
 #y hacer un commit con git commit -m (comentario de comit) o git commit -am
 # me qudede en el vidoe 3
+#apunto de unit las dos ramas en la master con comando merge
+#git branch para mostrar las distintas ramas que se rienen en el proyecro
+#git merge (rama actual, la que se va a unir a la main)
