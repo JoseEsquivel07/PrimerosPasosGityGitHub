@@ -15,3 +15,4 @@
 #git branch para mostrar las distintas ramas que se rienen en el proyecro
 #git merge (rama actual, la que se va a unir a la main)
 #>>>>>>> cabecera
+#para moverse ente commits o ramas usar comando git checkout (nombre de rama o hash de commit)
