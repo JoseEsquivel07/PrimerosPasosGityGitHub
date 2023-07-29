@@ -11,3 +11,4 @@
 #apunto de unit las dos ramas en la master con comando merge
 #git branch para mostrar las distintas ramas que se rienen en el proyecro
 #git merge (rama actual, la que se va a unir a la main)
+#para moverse ente commits o ramas usar comando git checkout (nombre de rama o hash de commit)
