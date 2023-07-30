@@ -18,3 +18,6 @@
 #se cambioa tipo de conecxion a ssh
 #traer repositorio git pull origin main
 #git push origin main para enviar codigo a github
+#git log --all --graph --decorate --oneline para mostrar de una forma mas visual toda la vida del proyecto
+# para hacer alias de comando usar /// alias (nombre)="comando"
+#para crear tags''////// git tag -a v0.1 -m " comenrario" ash
