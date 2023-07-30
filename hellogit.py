@@ -16,3 +16,5 @@
 #git merge (rama actual, la que se va a unir a la main)
 #para moverse ente commits o ramas usar comando git checkout (nombre de rama o hash de commit)
 #se cambioa tipo de conecxion a ssh
+#traer repositorio git pull origin main
+#git push origin main para enviar codigo a github
